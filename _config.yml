@@ -11,7 +11,7 @@ title                    : "Yuxi Lu / Personal Site"
 title_separator          : "-"
 name                     : &name "Yuxi Lu"
 description              : &description "personal description"
-url                      : https://divided7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://divided7.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "divided7/divided7.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yuxi Lu"
   avatar           : "profile.png"
-  bio              : "Research for AI Algorithm"
+  bio              : "Research for Artificial Intelligence Algorithm."
   location         : "Fuzhou, Fujian, China"
   employer         : "Hengonda"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "divided.by.07@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -111,10 +111,12 @@ author:
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :
-  weibo            : "weibo.com"
+  weibo            : # "weibo.com"
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "https://www.zhihu.com/people/divided7"
+  
 
 
 # Reading Files
