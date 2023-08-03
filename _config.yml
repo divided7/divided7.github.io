@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuxi Lu"
   avatar           : "profile.png"
-  bio              : "Research for \n AI Algorithm"
+  bio              : "Research for AI Algorithm"
   location         : "Fuzhou, Fujian, China"
   employer         : "Hengonda"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :
-  weibo            :weibo.com
+  weibo            : "weibo.com"
   xing             :
   youtube          :
   wikipedia        :
