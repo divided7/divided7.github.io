@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Research for Artificial Intelligence Algorithm."
   location         : "Fuzhou, Fujian, China"
-  employer         : "Hengonda"
+  employer         : # "Hengonda"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=jJPNCdUAAAAJ&hl=zh-CN&authuser=1"
   email            : "divided.by.07@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
