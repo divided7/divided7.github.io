@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "基于反向学习自适应花授粉的可见光定位方法及系统"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-05-25-基于反向学习自适应花授粉的可见光定位方法及系统
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2021-05-25
+venue: 'Chinese patent'
+paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0jPYZ-6FemR80TpIUx9Y4vp6Id17Tf9nAg54z_Or5AYAKcn6yq9ClIXwkrzLsbDTD&uniplatform=NZKPT'
 ---
 This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
