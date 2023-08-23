@@ -9,7 +9,7 @@
 locale                   : "zh-CN"
 title                    : "Yuxi Lu / Personal Site"
 title_separator          : "-"
-name                     : &name "Yuxi Lu"
+name                     : &name "Yuxi Lu, 26 years old"
 description              : &description "personal description"
 url                      : https://divided7.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
