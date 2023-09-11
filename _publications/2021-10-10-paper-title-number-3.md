@@ -3,7 +3,7 @@ title: "基于KPCA-K-means++和GA-LMS模型的改进RBF神经网络室内可见�
 collection: publications
 permalink: /publication/2021-10-10-基于KPCA-K-means++和GA-LMS模型的改进RBF神经网络室内可见光定位
 excerpt: 'This patent is about Visible Light Positioning System algorithm.'
-date: 2021-08-06
+date: 2021-10-10
 venue: 'Acta Optica Sinica'
 paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHdtsYIOjDYDyyEvqfhURQcoJYCBdMIlLFtkGgHsg1_GB&uniplatform=NZKPT'
 ---
