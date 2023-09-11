@@ -12,12 +12,10 @@ redirect_from:
 <div style="text-align: justify;">I am Yuxi Lu,26. A dedicated scholar and researcher in the field of Artificial Intelligence. My academic journey has been marked by a profound commitment to advancing knowledge and addressing critical questions within the realm of Computer Vision.Thank you for visiting my homepage, and please feel free to explore my work and reach out for further academic exchanges and collaborations.</div>
 
 ## Detail
-* [Education](https://divided7.github.io/cv#Education)
+* [Education](https://divided7.github.io/cv#education)
 
-* [Work experience](https://divided7.github.io/cv#Work-experience)
+* [Work experience](https://divided7.github.io/cv#work-experience)
 
-* [Skills](https://divided7.github.io/cv#Skill)
+* [Skills](https://divided7.github.io/cv#skills)
 
-* [Publications](https://divided7.github.io/cv#Publications)
-
-[测试](https://divided7.github.io/cv#Publications)
+* [Publications](https://divided7.github.io/cv#publications)
