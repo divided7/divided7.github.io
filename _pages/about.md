@@ -9,5 +9,9 @@ redirect_from:
 ---
 
 ---
+
+
+
+
 <div style="text-align: justify;">I am Yuxi Lu,26. A dedicated scholar and researcher in the field of Artificial Intelligence. My academic journey has been marked by a profound commitment to advancing knowledge and addressing critical questions within the realm of Computer Vision.Thank you for visiting my homepage, and please feel free to explore my work and reach out for further academic exchanges and collaborations.</div>
 
