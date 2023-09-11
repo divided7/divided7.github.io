@@ -19,3 +19,5 @@ redirect_from:
 * [Skills](https://divided7.github.io/cv#Skill)
 
 * [Publications](https://divided7.github.io/cv#Publications)
+
+[测试](https://divided7.github.io/cv#Publications)
