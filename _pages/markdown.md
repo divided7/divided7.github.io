@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "AI Skill"
 author_profile: true
 redirect_from: 
   - /md/
