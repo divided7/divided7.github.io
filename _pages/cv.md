@@ -33,6 +33,7 @@ Skills
   * Image classification, Object detection, Segmentation, 2D/3D Keypoint detection, Human mesh reconstruction, Action recognition, Image generation, et al.
   * Text classification, Text generation, Chat generation,et al.
   * NLP x CV Multimodal algorithm.
+  * [More about AI Skill](https://divided7.github.io/markdown/)
 * Optimization Algorithm
   * PSO, Genetic algorithm, Simulated annealing, A*, Ant colony algorithm, et al.
 * Electronic Information
