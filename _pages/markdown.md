@@ -15,7 +15,7 @@ Overview Keywords:
   
 Detail keywords:
 
-* Machine Learning; Computer vision; Natural Language Processing; multimodal;
+* <span style="color: green;">Machine Learning</span>;<span style="color: Purple;">Computer vision</span>; <span style="color: green;">Natural Language Processing</span>; multimodal;
 * ML: Linear/unlinear reg, Logistic reg, Cross varify, Ridge reg, Lasso reg, PCA, Trees, Decision trees, Random forests, SVM, KNN, K-Means, ...
 * Detection: YOLO, PaddleDet, MMDet, Nanodet, ...
 * Segmentation: YOLO-seg, PaddleSeg, MMSeg, SAM, ...
@@ -25,18 +25,13 @@ Detail keywords:
 * Text: word2vec, MHSA, Bert, ...
 * Multimodal: CLIP, DALL·E, DALL·E 2, ...
 
-
-<span style="color: red;">这是红色文字。</span>
-<span style="color: blue;">这是蓝色文字。</span>
-
-
 ## Tables
 
 ### Table 1
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+|                   Color                    |                         Description                          |
+| :----------------------------------------: | :----------------------------------------------------------: |
+|  <span style="color: Purple;">Black</span>  | <span style="color: Purple;">Comprehensive and  frequently used</span> |
+|  <span style="color: green;">Green</span>  | <span style="color: green;">Comprehensive but not frequently used</span> |
+| <span style="color: black;">Purple</span> |   <span style="color: black;">basic understanding</span>    |
 
