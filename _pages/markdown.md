@@ -11,7 +11,7 @@ redirect_from:
 Overview Keywords: 
 * <span style="color: Purple;">Linux</span>, <span style="color: Purple;"> windows</span>, <span style="color: Green;"> 
  MacOS</span>; <span style="color: Purple;">Python</span>, <span style="color: Green;"> C</span>, <span style="color: Green;"> C++</span>, <span style="color: Green;"> Matlab</span>, <span style="color: Green;"> Asm</span>; <span style="color: Green;"> LaTex</span>, <span style="color: Purple;">Markdown</span>;
-* <span style="color: Purple;">Pytorch</span>,<span style="color: Green;"> Paddle</span>, <span style="color: Green;"> Tensorflow</span>, <span style="color: Green;"> Onnx</span>, <span style="color: Green;"> Mxnet</span>, <span style="color: Green;"> Sklearn</span>;
+* <span style="color: Purple;">Pytorch</span>,<span style="color: Green;"> Paddle</span>, <span style="color: Green;"> Tensorflow</span>, <span style="color: Green;"> Onnx</span>, <span style="color: Green;"> Mxnet</span>, <span style="color: Green;"> Sklearn</span>; <span style="color: Purple;"> Rknn</span>;
   
 Detail keywords:
 
@@ -24,6 +24,7 @@ Detail keywords:
 * Generation: <span style="color: green;"> GAN</span>, <span style="color: green;"> Style-GAN</span>, <span style="color: green;"> SR-GAN</span>, <span style="color: green;"> Diffusion</span>, <span style="color: green;"> DDPM</span>, <span style="color: green;"> classifier free Guidance</span>, ...
 * Text: <span style="color: green;">Word2vec</span>, <span style="color: Purple;"> MHSA</span>, <span style="color: green;"> Bert</span>, ...
 * Multimodal: <span style="color: black;">CLIP</span>, <span style="color: black;"> DALL·E</span>, <span style="color: black;">DALL·E 2</span>, ...
+* Lightweighting: <span style="color: Purple;">Pruning</span>, <span style="color: Purple;"> Distillation</span>, <span style="color: Purple;"> Quantization</span>, <span style="color: green;"> Structure re-parameters</span>, ...
 
 ## Color descrpition
 
