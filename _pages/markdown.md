@@ -25,9 +25,7 @@ Detail keywords:
 * Text: <span style="color: green;">Word2vec</span>, <span style="color: Purple;"> MHSA</span>, <span style="color: green;"> Bert</span>, ...
 * Multimodal: <span style="color: green;">CLIP</span>, <span style="color: green;"> DALL·E</span>, <span style="color: green;">DALL·E 2</span>, ...
 
-## Tables
-
-### Table 1
+## Color descrpition
 
 |                   Color                    |                         Description                          |
 | :----------------------------------------: | :----------------------------------------------------------: |
