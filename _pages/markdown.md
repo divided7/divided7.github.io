@@ -11,9 +11,12 @@ redirect_from:
 Overview Keywords: 
 * Linux, windows, MacOS; Python, C, C++, Matlab, Asm; LaTex, Markdown;
 * Pytorch, Paddle, Tensorflow, Onnx, Mxnet, Sklearn;
+
+  
 Detail keywords:
+
 * Machine Learning; Computer vision; Natural Language Processing; multimodal;
-* ML: Linear/unlinear regression, Logistic regression, Cross varify, Ridge regression, Lasso regresson, PCA, Trees, Decision trees, Random forests, SVM, KNN, K-Means, ...
+* ML: Linear/unlinear reg, Logistic reg, Cross varify, Ridge reg, Lasso reg, PCA, Trees, Decision trees, Random forests, SVM, KNN, K-Means, ...
 * Detection: YOLO, PaddleDet, MMDet, Nanodet, ...
 * Segmentation: YOLO-seg, PaddleSeg, MMSeg, SAM, ...
 * Keypoint Det: YOLO-pose, HMR, ...
@@ -22,6 +25,9 @@ Detail keywords:
 * Text: word2vec, MHSA, Bert, ...
 * Multimodal: CLIP, DALL·E, DALL·E 2, ...
 
+
+<span style="color: red;">这是红色文字。</span>
+<span style="color: blue;">这是蓝色文字。</span>
 
 
 ## Tables
