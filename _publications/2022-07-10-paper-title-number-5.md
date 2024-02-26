@@ -2,7 +2,7 @@
 title: "基于并行全连接卷积神经网络模型的室内可见光信道的最优灯源布局"
 collection: publications
 permalink: /publication/2022-07-10-基于并行全连接卷积神经网络模型的室内可见光信道的最优灯源布局
-excerpt: 'This patent is about Visible Light Communication channel and Light algorithm.'
+excerpt: 'This paper is about Visible Light Communication channel and Light algorithm.'
 date: 2022-07-10
 venue: 'Acta Optica Sinica'
 paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XcqK_FrGDXbb5XR37LPzmi27gfX90mqYNnEPgKYbwN-9&uniplatform=NZKPT'
