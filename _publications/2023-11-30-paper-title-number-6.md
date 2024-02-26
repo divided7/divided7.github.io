@@ -2,7 +2,7 @@
 title: "基于GAN指纹库的卷积神经网络室内可见光信道模型"
 collection: publications
 permalink: /publication/2023-11-15-基于GAN指纹库的卷积神经网络室内可见光信道模型
-excerpt: 'This patent is about Visible Light Communication channel and Light algorithm.'
+excerpt: 'This paper is about Visible Light Communication channel and Light algorithm.'
 date: 2023-11-15
 venue: 'Journal of Optoelectronics.Laser (Accepted, not published, expected to be published in November 2023)'
 ---
