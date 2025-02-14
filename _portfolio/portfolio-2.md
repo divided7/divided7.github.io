@@ -1,12 +1,12 @@
 ---
-title: "Knowledge Graph"
-excerpt: "Action scoring DEMO. <br/><img src='/images/pull_up.gif'>"
+title: "Knowledge Graph. (2024)"
+excerpt: "Knowledge Graph. <br/><img src='/images/graph.gif'>"
 # excerpt: "<video src='../videos/video.mp4'>"
 collection: portfolio
 ---
 
 
-<video src="/videos/knowledge_graph.mov" controls style="max-width: 700px;">
+<video src="/videos/graph.mp4" controls style="max-width: 700px;">
   Your browser does not support the video tag.
 </video>
 
