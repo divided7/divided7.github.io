@@ -6,5 +6,7 @@ collection: portfolio
 ---
 
 视频简介
-<video src="/videos/Sit-Up.mp4" controls style="max-width: 700px;"></video>
+<video src="/videos/Sit-Up.mp4" controls style="max-width: 700px;">
+  Your browser does not support the video tag.
+</video>
 完
