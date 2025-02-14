@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Graph. (2024)"
-excerpt: "Knowledge Graph. <br/><img src='/images/graph.gif'>"
+excerpt: "Knowledge Graph. <br/><img src='/images/graph.gif' style='max-width: 500px;'>"
 # excerpt: "<video src='../videos/video.mp4'>"
 collection: portfolio
 ---

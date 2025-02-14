@@ -1,6 +1,6 @@
 ---
 title: "Sport Analysis by Large Model. (2024)"
-excerpt: "Sport analysis. <br/><img src='/images/long_jump.jpg'>"
+excerpt: "Sport analysis. <br/><img src='/images/long_jump.gif' style='max-width: 500px;'>"
 # excerpt: "<video src='../videos/video.mp4'>"
 collection: portfolio
 ---

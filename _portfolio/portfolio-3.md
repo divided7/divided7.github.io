@@ -1,6 +1,6 @@
 ---
 title: "Shot scoring prediction. (2024)"
-excerpt: "Reg. <br/><img src='/images/shot_reg.jpg'>"
+excerpt: "Reg. <br/><img src='/images/shot_reg.jpg' style='max-width: 500px;'>"
 # excerpt: "<video src='../videos/video.mp4'>"
 collection: portfolio
 ---
