@@ -6,3 +6,4 @@ collection: portfolio
 ---
 
 视频简介
+<video src="videos/Sit-Up.mp4" controls="controls" style="max-width: 700px;"></video>
