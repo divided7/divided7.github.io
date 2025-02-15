@@ -5,7 +5,7 @@ excerpt: "Pull up scoring DEMO. <br/><img src='/images/pull_up.gif' style='max-w
 collection: portfolio
 ---
 
-
+Pull up scoring DEMO.
 <video src="/videos/pull_up.mp4" controls style="max-width: 700px;">
   Your browser does not support the video tag.
 </video>

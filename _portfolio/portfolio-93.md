@@ -6,7 +6,4 @@ collection: portfolio
 ---
 Qwen2.5 + RagFlow
 <img src='/images/rag.png'>
-  Your browser does not support the video tag.
-</video>
-
 

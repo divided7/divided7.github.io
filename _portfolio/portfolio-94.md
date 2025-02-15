@@ -5,7 +5,7 @@ excerpt: "Knowledge Graph. <br/><img src='/images/graph.gif' style='max-width: 5
 collection: portfolio
 ---
 
-
+Knowledge graph contribution and visualization.
 <video src="/videos/graph.mp4" controls style="max-width: 700px;">
   Your browser does not support the video tag.
 </video>
