@@ -1,5 +1,5 @@
 ---
-title: "S $ ^ $ 3GCN: Sport Scoring Siamese Graph Convolution Network"
+title: "S $ ^3 $ GCN: Sport Scoring Siamese Graph Convolution Network"
 collection: publications
 permalink: /publication/Sport Scoring Siamese Graph Convolution Network
 excerpt: 'This paper is about Visible Light Communication channel and Light algorithm.'
