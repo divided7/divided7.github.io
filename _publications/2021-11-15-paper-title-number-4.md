@@ -2,7 +2,7 @@
 title: "稀疏训练指纹库融合MMPSO-ELM室内可见光定位"
 collection: publications
 permalink: /publication/2021-11-15-稀疏训练指纹库融合MMPSO-ELM室内可见光定位
-excerpt: 'This patent is about Visible Light Positioning System algorithm.'
+excerpt: 'This paper is about Visible Light Positioning System algorithm.'
 date: 2021-11-15
 venue: 'Laser Techno'
 paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_Xa_D9Emkwf8eyn_V7NyA1Mst05VZGHLWIK1OaPIlOvul&uniplatform=NZKPT'
