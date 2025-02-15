@@ -1,7 +1,7 @@
 ---
 title: "改进型RBF神经网络室内可见光定位方法及系统"
-collection: publications
-permalink: /publication/2021-08-06-改进型RBF神经网络室内可见光定位方法及系统
+collection: patents
+permalink: /patents/2021-08-06-改进型RBF神经网络室内可见光定位方法及系统
 excerpt: 'This patent is about Visible Light Positioning System algorithm.'
 date: 2021-08-06
 venue: 'Chinese patent'
