@@ -1,7 +1,7 @@
 ---
 title: "基于反向学习自适应花授粉的可见光定位方法及系统"
 collection: patents
-permalink: /patents/2021-05-25-基于反向学习自适应花授粉的可见光定位方法及系统
+permalink: /patent/2021-05-25-基于反向学习自适应花授粉的可见光定位方法及系统
 excerpt: 'This patent is about Visible Light Positioning System algorithm.'
 date: 2021-05-25
 venue: 'Chinese patent'
