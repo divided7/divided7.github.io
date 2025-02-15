@@ -204,18 +204,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _patents
-  - scope:
-      path: ""
-      type: patents
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
   # _pages
   - scope:
       path: ""
@@ -236,6 +224,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _patents
+  - scope:
+      path: ""
+      type: patents
     values:
       layout: single
       author_profile: true
