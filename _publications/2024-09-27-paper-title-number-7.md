@@ -1,7 +1,7 @@
 ---
 title: "S^3GCN: Sport Scoring Siamese Graph Convolution Network"
 collection: publications
-permalink: /publication/2024-09-27-paper-title-number-7.md
+permalink: /publication/Sport Scoring Siamese Graph Convolution Network
 excerpt: 'This paper is about Visible Light Communication channel and Light algorithm.'
 date: 2024-09-27
 venue: '2024 IEEE International Conference on Image Processing (ICIP)'

@@ -9,7 +9,7 @@ vim ./_data/navigation.yml
 ```
 生成`_patents`文件夹和对应文件
 编写`_pages/patents.html` (可参考该路径其他Head对应格式修改)
-在`_config.yml`的defaults部分添加Head对应的展示路径
+在`_config.yml`的defaults部分添加Head对应的展示路径， Collections部分修改内容
 
 
 # 修改页面
