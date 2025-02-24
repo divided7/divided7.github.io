@@ -8,6 +8,6 @@ collection: portfolio
 
 <img src='/images/mathorcup2021.png' style='max-width: 700px;'>
 
-<video src="/videos/carprice.mp4" controls style="max-width: 700px;">
+<video src="/videos/car-price.mp4" controls style="max-width: 700px;">
   Your browser does not support the video tag.
 </video>
