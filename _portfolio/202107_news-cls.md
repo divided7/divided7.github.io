@@ -1,5 +1,5 @@
 ---
-title: "Text classification (open source). (2021)"
+title: "Text classification. (2021)"
 excerpt: "News classification. <br/><img src='/images/news_cls.png' style='max-width: 500px;'>"
 # excerpt: "<video src='../videos/video.mp4'>"
 collection: portfolio
