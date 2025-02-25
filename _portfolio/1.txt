@@ -17,7 +17,7 @@
     AI换脸
                 跳远分析大模型 88
                 人脸识别 89
-    smplerx
+                smplerx
 
     帮张力搞的那个
     
@@ -29,7 +29,7 @@
     阳光跑
                 地铁越界检测  2023
     3D Mesh 2023
-    colmap 3d重构那些 nerf
+                colmap 3d重构那些 nerf
     
 2021-2022:
     坐位体前屈
