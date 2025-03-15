@@ -18,4 +18,4 @@ redirect_from:
 
 * [Skills](https://divided7.github.io/cv#skills)
 
-* [Publications](https://divided7.github.io/cv#publications)
+* [Publications](https://divided7.github.io/cv#publications) 
