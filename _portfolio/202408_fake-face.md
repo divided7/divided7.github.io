@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 Knowledge graph contribution and visualization.
-<video src="/videos/graph.mp4" controls style="max-width: 700px;">
+<video src="/videos/fake-face.mp4" controls style="max-width: 700px;">
   Your browser does not support the video tag.
 </video>
 
