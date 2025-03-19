@@ -1,7 +1,7 @@
 ---
 title: "Fake Face. (2024)"
 excerpt: "Fake Face. <br/><img src='/images/fake-face.png' style='max-width: 500px;'>"
-# excerpt: "<video src='../videos/video.mp4'>"
+# excerpt: "<video src='../videos/fake-face.mp4'>"
 collection: portfolio
 ---
 
