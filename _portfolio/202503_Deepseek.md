@@ -15,3 +15,6 @@ Deploy Deepseek on RTX 3080Ti $\times$ 2, this video has been sped up by 2 $\tim
 <video src="/videos/deepseek_3080.mov" controls style="max-width: 700px;">
   Your browser does not support the video tag.
 </video>
+Finetune DeepSeek 7B on RTX 3080Ti x 2 to style translation.
+
+<img src='/images/finetune_deepseek.png' style='max-width: 700px;'>
