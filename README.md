@@ -33,3 +33,6 @@ vim _pages/cv.md
 ```bash
 vim ./_pages/markdown.md
 ```
+
+## 查看访问量
+https://kikosann.goatcounter.com
